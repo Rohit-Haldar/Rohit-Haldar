@@ -1,8 +1,6 @@
-<img align="center" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/vesper-wevoke-tech.gif">
-
 ## Hi 👋  I am Rohit Haldar
 🎓 **3rd year Business Analytics student** at Adamas University, Kolkata. 
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 💼 Completed a 4-week Virtual Internship at **AtliQ Technologies**, where I:  
 * Analyzed policies for an **insurance company** (Dummy)
