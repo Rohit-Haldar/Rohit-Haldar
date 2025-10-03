@@ -2,7 +2,7 @@
 🎓 **3rd year Business Analytics student** at Adamas University, Kolkata. 
 <img align="right" alt="Coding" width="300"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-💼 Completed a 4-week Virtual Internship at **AtliQ Technologies**, where I:  
+💼 Completed a 4-week Virtual Bootcamp at **AtliQ Technologies**, where I:  
 * Analyzed policies for an **insurance company** (Dummy)
 * Worked on a **5G launch project** for a **telecom company** (Dummy)
 
